@@ -1,1 +1,1 @@
-# Text-Extractor-from-Video
+# Text-Extractor-from-Video Using pytesseract
